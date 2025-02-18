@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Here’s a little about me:
 
 ## 🚀 About Me
-- 🔭 Currently working on: **A habit-tracking app using Android Studio (Java & Kotlin)**
-- 🌱 Learning: **Android development with Java & Kotlin**
-- 💡 Interested in: **Mobile development, database design, and server management on Linux**
-- 🛠️ Tech stack: **Java, Kotlin, Android Studio, Linux, AzerothCore**
+- 🔭 Currently working on: **A habit-tracking app using Flutter & Firebase**
+- 🌱 Learning: **Multiplatform development with Flutter**
+- 💡 Interested in: **Mobile development, database design, and server management**
+- 🛠️ Tech stack: **Flutter, Firebase, Linux, AzerothCore, C#, Java**
 - 📫 How to reach me: **danbercsi@gmail.com**
 
 ## 📊 GitHub Stats
@@ -15,9 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 ## 🌟 Featured Projects
 - 📱 [Habit Tracker App](https://github.com/Ati61/FocusFlow)
 
-
 ## 🎯 Goals for 2025
-- ✅ Improve my Android development skills
+- ✅ Improve my Flutter skills
 - ✅ Launch my habit-tracking app
 - ✅ Contribute to open-source projects
 
