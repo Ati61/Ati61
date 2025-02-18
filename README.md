@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Ati61/Ati61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Here’s a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on: **A habit-tracking app using Android Studio (Java & Kotlin)**
+- 🌱 Learning: **Android development with Java & Kotlin**
+- 💡 Interested in: **Mobile development, database design, and server management on Linux**
+- 🛠️ Tech stack: **Java, Kotlin, Android Studio, Linux, AzerothCore**
+- 📫 How to reach me: **lehartattila6@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ati61&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+- 📱 [Habit Tracker App](https://github.com/Ati61/FocusFlow)
+
+
+## 🎯 Goals for 2025
+- ✅ Improve my Android development skills
+- ✅ Launch my habit-tracking app
+- ✅ Contribute to open-source projects
+
+Thanks for stopping by! 😊 Feel free to check out my repositories and connect with me.
+
