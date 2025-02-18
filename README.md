@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 🌱 Learning: **Android development with Java & Kotlin**
 - 💡 Interested in: **Mobile development, database design, and server management on Linux**
 - 🛠️ Tech stack: **Java, Kotlin, Android Studio, Linux, AzerothCore**
-- 📫 How to reach me: **lehartattila6@gmail.com**
+- 📫 How to reach me: **danbercsi@gmail.com**
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ati61&show_icons=true&theme=radical)
