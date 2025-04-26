@@ -7,7 +7,7 @@ I'm a CS student who loves to code. Passionate about building stuff that actuall
 - 🔭 Currently working on: A **Spotify Tracker** that lets me obsess over my terrible music taste
 - 💻 Jack of all trades, master of none: Frontend, backend, whatever needs building
 - ☕ Fueled by coffee and Stack Overflow
-- 🌐 Portfolio: [atixd.me](https://atixd.me)
+- 🌐 Portfolio: [atixd.me](https://atixd.me) (doesnt work rn im too busy to make it work xd)
 
 ## Tech I mess around with
 - React (when I need to make things pretty)
