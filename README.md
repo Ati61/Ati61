@@ -4,7 +4,7 @@
 ## Who am I?
 - 🎓 Computer Science student
 - 🔭 Currently working on: A **Spotify Tracker** that lets me obsess over my terrible music taste
-- 🌐 Portfolio: [atixd.me](https://atixd.me) (doesnt work rn im too busy to make it work xd)
+- 🌐 Portfolio: [atixd.me](https://atixd.me) (either works or no, too busy to maintain it)
 
 ## Current Projects
 - 🎵 **Spotify Stats Thing**: Analyzing my embarrassing listening habits and making playlists I'll never actually listen to
